@@ -72,7 +72,6 @@ int main(void)
 	}
 
 
-
 	// Asigna el contexto actual a "ventana"
 	glfwMakeContextCurrent(window);
 
