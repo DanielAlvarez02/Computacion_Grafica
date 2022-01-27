@@ -1,13 +1,13 @@
 ﻿  EBO.cpp
   Source.cpp
-C:\Users\juand\Documents\GitHub\Computacion_Grafica\TexturasOpenGL\B2T2_Alvarez\Source.cpp(129,22): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\juand\Documents\GitHub\Computacion_Grafica\B2T2_Alvarez\B2T2_Alvarez\Source.cpp(155,21): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
   Texture.cpp
   VAO.cpp
-C:\Users\juand\Documents\GitHub\Computacion_Grafica\TexturasOpenGL\B2T2_Alvarez\VAO.cpp(13,63): warning C4244: 'argument': conversion from 'GLfloat' to 'GLsizei', possible loss of data
+C:\Users\juand\Documents\GitHub\Computacion_Grafica\B2T2_Alvarez\B2T2_Alvarez\VAO.cpp(13,63): warning C4244: 'argument': conversion from 'GLfloat' to 'GLsizei', possible loss of data
   VBO.cpp
   shaderClass.cpp
   stb.cpp
   Generating Code...
   glad.c
-glfw3.lib(context.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(context.obj)' or at 'C:\Users\juand\Documents\GitHub\Computacion_Grafica\TexturasOpenGL\x64\Debug\glfw.pdb'; linking object as if no debug info
-  B2T2_Alvarez.vcxproj -> C:\Users\juand\Documents\GitHub\Computacion_Grafica\TexturasOpenGL\x64\Debug\B2T2_Alvarez.exe
+glfw3.lib(context.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(context.obj)' or at 'C:\Users\juand\Documents\GitHub\Computacion_Grafica\B2T2_Alvarez\x64\Debug\glfw.pdb'; linking object as if no debug info
+  B2T2_Alvarez.vcxproj -> C:\Users\juand\Documents\GitHub\Computacion_Grafica\B2T2_Alvarez\x64\Debug\B2T2_Alvarez.exe

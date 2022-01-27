@@ -23,5 +23,5 @@ void main()
 	}
 
 	// Se Combinan la textura con el color
-	FragColor = mix(vec4(color,1.0f),texColor,alpha);
+	FragColor = mix(texColor,vec4(color,1.0f),alpha/2);
 }

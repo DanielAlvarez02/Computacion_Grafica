@@ -1,7 +1,7 @@
 #include"EBO.h"
 
 //Crea un nuevo EBO tomando un array de vertices y un tamaño
-EBO::EBO(GLfloat* vertices, GLsizeiptr size)
+EBO::EBO(GLuint* vertices, GLsizeiptr size)
 {
 	glGenBuffers(1, &ID);
 	glBindBuffer(GL_ELEMENT_ARRAY_BUFFER, ID);
